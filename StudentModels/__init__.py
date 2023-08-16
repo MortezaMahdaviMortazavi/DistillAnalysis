@@ -1,0 +1,1 @@
+from .CnnCifarClassifier import *
